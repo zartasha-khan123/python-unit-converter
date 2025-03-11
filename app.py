@@ -17,7 +17,7 @@ st.markdown(
 )
 
 # Title
-st.markdown("<h1>🔄 Stylish Unit Converter 🔄</h1>", unsafe_allow_html=True)
+st.markdown("<h1>🔄  Unit Converter 🔄</h1>", unsafe_allow_html=True)
 
 # Conversion dictionary
 conversion_rates = {
